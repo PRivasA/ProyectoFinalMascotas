@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TiendaMascotas</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_mascotas">MascotasActivity</string>
+    <string name="title_activity_alimentos">AlimentosActivity</string>
+    <string name="title_activity_accesorios">AccesoriosActivity</string>
+</resources>
